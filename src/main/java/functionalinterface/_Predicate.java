@@ -22,7 +22,7 @@ public class _Predicate {
                 "Is phone number valid and contains number 3 = " +
                         isPhoneNumberValidPredicate.and(containsNumber3).test("07000000003"));
         System.out.println(
-                "Is phone number valid and contains number 3 = " +
+                "Is phone number valid or contains number 3 = " +
                         isPhoneNumberValidPredicate.or(containsNumber3).test("07000000000"));
     }
 

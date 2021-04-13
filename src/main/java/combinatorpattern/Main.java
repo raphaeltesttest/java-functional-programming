@@ -10,7 +10,7 @@ public class Main {
         Customer customer = new Customer(
                 "Alice",
                 "alice@gmail.com",
-                "+89898988989",
+                "+089898988989",
                 LocalDate.of(2000,1,1)
         );
 
