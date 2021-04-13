@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b28598-6999-4b2d-ae45-4c57d279ca50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/java-functional-programming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer$Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Predicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/functionalinterface/_Supplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imperative/Main$Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imperative/Main$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/imperative/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streams/_Stream$Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streams/_Stream$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/streams/_Stream.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +141,7 @@
       <workItem from="1617929069686" duration="3482000" />
       <workItem from="1617961737090" duration="2118000" />
       <workItem from="1618085172595" duration="7080000" />
-      <workItem from="1618273252475" duration="5759000" />
+      <workItem from="1618273252475" duration="6235000" />
     </task>
     <servers />
   </component>
@@ -142,22 +153,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="948" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1618090138086" />
-    <state width="686" height="210" key="GridCell.Tab.0.bottom" timestamp="1618279865711">
+    <state width="686" height="210" key="GridCell.Tab.0.bottom" timestamp="1618280122585">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="686" height="210" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1618279865711" />
-    <state width="686" height="210" key="GridCell.Tab.0.center" timestamp="1618279865711">
+    <state width="686" height="210" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1618280122585" />
+    <state width="686" height="210" key="GridCell.Tab.0.center" timestamp="1618280122585">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="686" height="210" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1618279865711" />
-    <state width="686" height="210" key="GridCell.Tab.0.left" timestamp="1618279865711">
+    <state width="686" height="210" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1618280122585" />
+    <state width="686" height="210" key="GridCell.Tab.0.left" timestamp="1618280122584">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="686" height="210" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1618279865711" />
-    <state width="686" height="210" key="GridCell.Tab.0.right" timestamp="1618279865711">
+    <state width="686" height="210" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1618280122584" />
+    <state width="686" height="210" key="GridCell.Tab.0.right" timestamp="1618280122585">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="686" height="210" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1618279865711" />
+    <state width="686" height="210" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1618280122585" />
     <state x="424" y="0" key="SettingsEditor" timestamp="1617931041262">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
